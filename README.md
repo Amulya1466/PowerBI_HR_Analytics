@@ -120,11 +120,11 @@ Some insights obtained from the dashboard include:
 
 ### Overview Dashboard
 
-![Overview](Dashboard1.png)
+!
 
 ### Attrition Analysis
 
-![Attrition](Dashboard2.png)
+!
 
 ---
 
